@@ -6,7 +6,7 @@
   "description": "Interactive grocery items table - Technical assignment for Coolset",
   "scripts": {
     "dev": "next dev --turbopack",
-    "build": "next build --turbopack",
+    "build": "next build",
     "start": "next start",
     "lint": "eslint",
     "format": "prettier --write \"**/*.{js,jsx,ts,tsx,json,css,md}\"",
